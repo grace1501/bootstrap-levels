@@ -16,3 +16,81 @@
 .primary-button:active {
   background-color: blue;
 }
+
+
+.base-button {
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 5px;
+
+  box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -webkit-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -moz-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+}
+
+.base-button-blue {
+  background-color: blue;
+}
+.base-button-blue:active {
+  background-color: darkblue;
+}
+
+.base-button-gray {
+  background-color: gray;
+}
+
+.base-button-gray:hover {
+  background-color: dimgray;
+}
+
+.base-button-gray:active {
+  background-color: gray;
+}
+
+.base-button-green {
+  background-color: green;
+}
+
+.base-button-green:hover {
+  background-color: darkgreen;
+}
+
+.base-button-green:active {
+  background-color: green;
+}
+
+.base-button-red {
+  background-color: red;
+}
+
+.base-button-red:hover {
+  background-color: darkred;
+}
+
+.base-button-red:active {
+  background-color: red;
+}
+
+.base-button-orange {
+  background-color: orange;
+}
+
+.base-button-orange:hover {
+  background-color: yellow;
+}
+
+.base-button-orange:active {
+  background-color: orange;
+}
+
+.base-button-cyan {
+  background-color: darkcyan;
+}
+
+.base-button-cyan:hover {
+  background-color: cyan;
+}
+
+.base-button-cyan:active {
+  background-color: darkcyan;
+}
